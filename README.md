@@ -1,7 +1,7 @@
 # express.js-note-taker
 ## Table of Contents
 
-1. [Description]()
+1. [Description](https://github.com/EChrist01/express.js-note-taker/tree/main#descrption)
 2. [Installation]()
 3. [Usage]()
 4. [Demo]()
