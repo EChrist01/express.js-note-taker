@@ -7,7 +7,7 @@
 4. [Demo](https://github.com/EChrist01/express.js-note-taker/blob/main/README.md#demo)
 5. [Questions](https://github.com/EChrist01/express.js-note-taker/blob/main/README.md#questions)
 
-## Descrption.
+## Description.
 
 
 ## Installation Instructions.
